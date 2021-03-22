@@ -71,6 +71,9 @@ function stopCount(){
 }
 function initNavigators(){
     // console.log(modeIndex["hard"]);
+    // for(var i = 0; i < 3; i++){
+    //     navigatorEl[i].style.display = "inline";
+    // }
     for(var index = 0; index < 2; index++){
         console.log("index: " + index);
         if(index === modeIndex["hard"]){
