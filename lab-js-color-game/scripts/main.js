@@ -50,7 +50,7 @@ function countDown( ){
     if(timer === 0 || gameOver === true){
         stopCount();
         messageDisplay.textContent = ("TIMEOUT!");
-        resetButton.style.visibility = "visible";
+        resetButton.style.display = "block";
         body.style.backgroundColor = pickedColor;
         gameOver = true;
         for(var index = 0; index < cards.length; index++){
@@ -87,11 +87,13 @@ function initNavigators(){
             console.log(currentMode);
             initCards();
             reset();
-            resetButton.style.visibility = "visible";
+            resetButton.style.display = "block";
         });
+    
     }
     navigatorEl[2].addEventListener("click", function(){
-        // resetButton.style.visibility = "hidden";
+        // alert("gogogogo");
+        resetButton.style.display = "none";
         currentMode = this.getAttribute("id");
         document.getElementsByClassName("currentModeClass")[0].classList.toggle("currentModeClass");
         this.classList.toggle("currentModeClass");
@@ -102,7 +104,7 @@ function initNavigators(){
 }
 function init_NightMare(){
     counterString = "WHAT'S THE COLOR ?  ";
-    resetButton.style.visibility = "hidden";
+    resetButton.style.display = "none";
     stopCount();
     startCount();
     messageDisplay.textContent = (counterString + timer);
@@ -157,7 +159,7 @@ function initCards() {
                 if (clickedColor === pickedColor) {
                     messageDisplay.textContent = "Correct!";
                     resetDisplay.textContent = "Play Again"
-                    resetButton.style.visibility = "visible";
+                    resetButton.style.display = "block"; 
                    
                     changeColors("#FFF");
                     body.style.backgroundColor = clickedColor;
