@@ -22,3 +22,6 @@ theme = 'ananke'
   [privacy.youTube]
     disable = false
     privacyEnhanced = false
+[services]
+  [services.googleAnalytics]
+    ID = 'G-0ECG4GCCN5'
