@@ -4,7 +4,8 @@ date: 2024-05-14T15:01:23+08:00
 draft: false 
 ---
 
-- [A Polynomial-Time Algorithm for Minimizing the Deep Coalescence Cost for Level-1 Species Networks](https://365nthu-my.sharepoint.com/:p:/g/personal/112062547_office365_nthu_edu_tw/EUcKrbyU8oRJtKdNov5dC2wBlQXgc_EyK7t4AaPs8iKKTQ?e=eTp7MO)
+- [Presentation](https://365nthu-my.sharepoint.com/:p:/g/personal/112062547_office365_nthu_edu_tw/EUcKrbyU8oRJtKdNov5dC2wBlQXgc_EyK7t4AaPs8iKKTQ?e=eTp7MO)
+  - Doi: [10.1109/TCBB.2021.3105922](https://doi.org/10.1109/TCBB.2021.3105922)
 
 <iframe src="https://365nthu-my.sharepoint.com/personal/112062547_office365_nthu_edu_tw/_layouts/15/Doc.aspx?sourcedoc={bcad0a47-f294-4984-b4a7-4da2fe5d0b6c}&amp;action=embedview&amp;wdAr=1.3333333333333333&amp;wdEaaCheck=0" width="962px" height="564px" frameborder="0">這是 <a target="_blank" href="https://office.com/webapps">Office</a> 提供的內嵌 <a target="_blank" href="https://office.com">Microsoft Office</a> 簡報。</iframe>
 
