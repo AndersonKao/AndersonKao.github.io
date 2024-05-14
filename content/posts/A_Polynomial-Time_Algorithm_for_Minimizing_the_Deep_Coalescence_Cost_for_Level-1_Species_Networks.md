@@ -1,5 +1,5 @@
 ---
-title: 'A_Polynomial Time_Algorithm_for_Minimizing_the_Deep_Coalescence_Cost_for_Level 1_Species_Networks'
+title: 'A Polynomial Time Algorithm for Minimizing the Deep Coalescence Cost for Level 1 Species Networks'
 date: 2024-05-14T15:01:23+08:00
 draft: false 
 ---
