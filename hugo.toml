@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Anderson Kao's Blog'
 theme = 'ananke'
 [privacy]
   [privacy.disqus]
